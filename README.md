@@ -1,11 +1,8 @@
-# Hi there 👋, I'm Ryan Hikmal
+# Hi there 👋, 
 
-🎓 **Student of Computer Science | Backend & Machine Learning Enthusiast**  
+I'm Ryan Hikmal
 
-💻 I love building scalable backend systems and exploring the world of Machine Learning.  
-🔧 Currently learning and experimenting with JS, Python, and ML frameworks.  
-
-📂 Check out my projects for backend applications and ML experiments.  
+ **Student of Computer Science | Backend & Machine Learning Enthusiast**    
 
 📫 Contact me: [ryanhikmal444@gmail.com](mailto:ryanhikmal444@gmail.com)  
 
